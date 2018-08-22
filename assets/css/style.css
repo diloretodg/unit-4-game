@@ -15,6 +15,7 @@ body {
 .crystal {
     height: 75px;
     width: auto;
+    margin: 10px;
 }
 .card {
     margin-top: 10px;
